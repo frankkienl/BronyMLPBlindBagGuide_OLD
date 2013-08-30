@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MLPBlindBagGuide/MLPBlindBagGuide.iml" filepath="$PROJECT_DIR$/MLPBlindBagGuide/MLPBlindBagGuide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MLPBlindBagGuideProject.iml" filepath="$PROJECT_DIR$/MLPBlindBagGuideProject.iml" />
+    </modules>
+  </component>
+</project>
+

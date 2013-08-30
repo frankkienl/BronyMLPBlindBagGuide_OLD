@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brony MLP Blind Bag Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tut1">
+        Blind bags are small bags that contain 1 mini pony per bag.\n
+        They do not indicate by name which pony is in which bag because it is meant to be a surprise.\n
+        For those that hate surprises, the bags also have a number printed on them that allows you to figure out which pony is in which bag.
+    </string>
+    <string name="tut2">
+        Numbers can either be 1-2 digits or 5 digits.\n
+        For five digit numbers, just ignore the 1st, 3rd and 5th number and have the original index number.\n
+        For instance, number 20415 is really just #01 or #1, and 22445 is just #24.</string>
+    <string name="tut3">
+        Wave 8 no longer printed number codes,\n
+        but instead has 2 digit letter codes stamped right below the \'www.mylittlepony.com\' print on the front of the bag.\n
+        The codes are AA-AZ, minus AJ and AQ.</string>
+    <string name="credits">
+        This application is made by FrankkieNL and Fluffikens.\n
+        The original (flash) application is made by Jaroslav Vozar.\n
+        Images by:\n
+        Remmy, Sarah G, Tropical_Sunset, Collec-Jcg, Strawberryreef.com, Hasbro, Mlp4merch.tumbler.com, Leddaq\n
+        Links:\n
+        http://jerry411.deviantart.com/art/My-Little-Pony-G4-Blind-Bag-Guide-ver-1-2-394703136\n
+        http://www.strawberryreef.com/Index/G4/IndexBB.html\n
+        http://www.equestriadaily.com/2013/08/blind-bag-identification-application.html
+    </string>
+    <string name="credtis2">
+        This software is for informational purposes only.\n
+        and is intended to assist the pony collecting community.\n
+        Some images in this software are property of Hasbro and have been borrowed for non-profit use.\n
+        This software is not affiliated with Hasbro,\n
+        and their distinctive likenesses are trademarks of Hasbro, Inc. All rights reserved worldwide.\n
+        \n
+        My Little Pony: Friendship is Magic is copyrighted by Hasbro.
+    </string>
+</resources>
