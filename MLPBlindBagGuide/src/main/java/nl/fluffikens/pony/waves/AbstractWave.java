@@ -21,7 +21,18 @@ public abstract class AbstractWave {
     protected void init() {
         for (int i = 0; i < ponies.length; i++) {
             ponies[i] = new Pony(names[i], descriptions[i], getImageName(this.wave, i));
+            ponies[i].addDescription(getPatternString(i));
         }
+    }
+
+    public String[] getPatternString(int pony) {
+        String[] patternDescriptions = new String[patterns.size()];
+
+        for(int i = 0; i < patternDescriptions.length; i++) {
+            patternDescriptions[i] = patterns.get(i).get(pony);
+        }
+
+        return patternDescriptions;
     }
 
     protected String getImageName(int wave, int pony) {

@@ -49,4 +49,18 @@ public class Wave1 extends AbstractWave {
         return getImageName() + ((pony < (9 + offset)) ? "0" + (pony - offset + 1)
                 : pony - offset + 1) + "_" + names[pony].replace(" ", "") + ".jpg";
     }
+
+    @Override
+    public String[] getPatternString(int pony) {
+        String[] patternDescriptions = new String[patterns.size()];
+
+        for (int i = 0; i < patternDescriptions.length; i++) {
+
+            int offset = pony >= 8 ? pony >= 24 ? 2 : 1 : 0;
+
+            patternDescriptions[i] = patterns.get(i).get(pony - offset);
+        }
+
+        return patternDescriptions;
+    }
 }

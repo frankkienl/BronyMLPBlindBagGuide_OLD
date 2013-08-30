@@ -28,8 +28,10 @@ public class NumberPattern extends Pattern {
         patternBuilder.append((nr % 10));
         patternBuilder.append(pattern[4]);
 
-        patternBuilder.append(", ");
-        patternBuilder.append(appendum);
+        if(appendum.length() > 0) {
+            patternBuilder.append(", ");
+            patternBuilder.append(appendum);
+        }
         return patternBuilder.toString();
     }
 }

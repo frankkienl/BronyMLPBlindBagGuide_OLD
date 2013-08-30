@@ -15,6 +15,21 @@ public class Pony {
         this.description = description;
     }
 
+    public void addDescription(String... newDescriptions) {
+        String[] tempDescriptions =
+                new String[description.length + newDescriptions.length];
+
+        for(int i = 0; i < description.length; i++) {
+            tempDescriptions[i] = description[i];
+        }
+
+        for(int i = description.length; i < tempDescriptions.length; i++) {
+            tempDescriptions[i] = newDescriptions[i - description.length];
+        }
+
+        description = tempDescriptions;
+    }
+
     public String getNumberInWave() {
         return "#" + description[0];
     }
