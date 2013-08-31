@@ -5,8 +5,10 @@ Application that can help identify ponies in Blind Bags (no internet needed)
 
 APK: https://github.com/frankkienl/BronyMLPBlindBagGuide/blob/master/MLPBlindBagGuide/MLPBlindBagGuide.apk
 
+This app does *not* require internet-connection or flash-player.
+
 This application is made by FrankkieNL and Fluffikens.
-The original (flash) application is made by Jaroslav Vozar.
+The original (flash) application is made by Jaroslav Vozar.=
 Images by:
 Remmy, Sarah G, Tropical_Sunset, Collec-Jcg, Strawberryreef.com, Hasbro, Mlp4merch.tumbler.com, Leddaq
 Links:
