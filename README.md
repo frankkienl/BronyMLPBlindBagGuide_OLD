@@ -3,6 +3,8 @@ BronyMLPBlindBagGuide
 
 Application that can help identify ponies in Blind Bags (no internet needed)
 
+APK: https://github.com/frankkienl/BronyMLPBlindBagGuide/blob/master/MLPBlindBagGuide/MLPBlindBagGuide.apk
+
 This application is made by FrankkieNL and Fluffikens.
 The original (flash) application is made by Jaroslav Vozar.
 Images by:
