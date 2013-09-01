@@ -9,7 +9,7 @@
     <ImageView
             android:id="@+id/row_icon"
             android:layout_width="150dp"
-            android:layout_height="145dp"
+            android:layout_height="155dp"
             android:layout_alignParentTop="true"
             android:layout_alignParentBottom="false"
             android:layout_marginRight="6dip"
