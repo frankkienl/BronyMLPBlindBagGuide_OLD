@@ -16,7 +16,6 @@
   <component name="ChangeListManager">
     <list default="true" id="546cb936-cd07-4602-8395-6da0e303e375" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MLPBlindBagGuide.iws" />
@@ -101,7 +100,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="46" selection-start="645" selection-end="645" vertical-scroll-proportion="0.425" vertical-offset="0" max-vertical-offset="1020">
+            <state line="24" column="63" selection-start="867" selection-end="867" vertical-scroll-proportion="0.57678574" vertical-offset="85" max-vertical-offset="1173">
               <folding />
             </state>
           </provider>
@@ -485,7 +484,11 @@
       <created>1378046703602</created>
       <updated>1378046703602</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added APK link">
+      <created>1378046860571</created>
+      <updated>1378046860571</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -624,7 +627,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="46" selection-start="645" selection-end="645" vertical-scroll-proportion="0.425" vertical-offset="0" max-vertical-offset="1020">
+        <state line="24" column="63" selection-start="867" selection-end="867" vertical-scroll-proportion="0.57678574" vertical-offset="85" max-vertical-offset="1173">
           <folding />
         </state>
       </provider>

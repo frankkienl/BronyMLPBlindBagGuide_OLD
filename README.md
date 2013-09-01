@@ -3,7 +3,9 @@ BronyMLPBlindBagGuide
 
 Application that can help identify ponies in Blind Bags (no internet needed)
 
-DOWNLOAD APK: https://github.com/frankkienl/BronyMLPBlindBagGuide/blob/master/MLPBlindBagGuide/MLPBlindBagGuide.apk
+DOWNLOAD APK:
+=============
+https://github.com/frankkienl/BronyMLPBlindBagGuide/blob/master/MLPBlindBagGuide/MLPBlindBagGuide.apk
 
 NOTE: If you see the "Error: blob is too big", please download the whole project as a zip.
 To download the zip, click the button that looks like this:
@@ -16,8 +18,11 @@ The APK is in the folder called 'MLPBronyBlindBag'.
 
 Or use the Dropbox-Link: http://db.tt/7DPCULPP
 
+Description
+===========
 
 This app does *not* require internet-connection or flash-player.
+You can use this app to check which pony is in which blind bag.
 
 This application is made by FrankkieNL and Fluffikens.
 The original (flash) application is made by Jaroslav Vozar.
@@ -27,6 +32,7 @@ Images by:
 Remmy, Sarah G, Tropical_Sunset, Collec-Jcg, Strawberryreef.com, Hasbro, Mlp4merch.tumbler.com, Leddaq
 
 Links:
+======
 
 http://equestriadaily.com/2013/08/android-brony-mlp-blind-bag-guide.html
 
@@ -36,6 +42,8 @@ http://www.strawberryreef.com/Index/G4/IndexBB.html
 
 http://www.equestriadaily.com/2013/08/blind-bag-identification-application.html
 
+Disclamer:
+==========
 
 This software is for informational purposes only.
 and is intended to assist the pony collecting community.
@@ -46,6 +54,7 @@ and their distinctive likenesses are trademarks of Hasbro, Inc. All rights reser
 My Little Pony: Friendship is Magic is copyrighted by Hasbro.
 
 Screenshots (Spoilers):
+=======================
 
 ![Screenshot](https://raw.github.com/frankkienl/BronyMLPBlindBagGuide/master/screenshots/device-2013-08-30-115618.png "Screenshot")
 
