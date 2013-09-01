@@ -9,15 +9,6 @@ Google Play: https://play.google.com/store/apps/details?id=nl.frankkie.bronymlpb
 
 APK: https://github.com/frankkienl/BronyMLPBlindBagGuide/blob/master/MLPBlindBagGuide/MLPBlindBagGuide.apk
 
-NOTE: If you see the "Error: blob is too big", please download the whole project as a zip.
-To download the zip, click the button that looks like this:
-
-<a href="https://github.com/frankkienl/BronyMLPBlindBagGuide/archive/master.zip">
-![Screenshot](https://raw.github.com/frankkienl/BronyMLPBlindBagGuide/master/screenshots/downloadzip.png "Screenshot")
-</a>
-
-The APK is in the folder called 'MLPBronyBlindBag'.
-
 Or use the Dropbox-Link: http://db.tt/7DPCULPP
 
 Description
