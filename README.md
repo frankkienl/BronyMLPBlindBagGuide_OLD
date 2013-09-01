@@ -6,9 +6,11 @@ Application that can help identify ponies in Blind Bags (no internet needed)
 DOWNLOAD APK: https://github.com/frankkienl/BronyMLPBlindBagGuide/blob/master/MLPBlindBagGuide/MLPBlindBagGuide.apk
 
 NOTE: If you see the "Error: blob is too big", please download the whole project as a zip.
-To download the zip, click the button that looks like this: (here below is not the real button)
+To download the zip, click the button that looks like this:
 
+<a href="https://github.com/frankkienl/BronyMLPBlindBagGuide/archive/master.zip">
 ![Screenshot](https://raw.github.com/frankkienl/BronyMLPBlindBagGuide/master/screenshots/downloadzip.png "Screenshot")
+</a>
 
 The APK is in the folder called 'MLPBronyBlindBag'.
 
