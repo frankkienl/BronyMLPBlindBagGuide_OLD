@@ -3,9 +3,11 @@ BronyMLPBlindBagGuide
 
 Application that can help identify ponies in Blind Bags (no internet needed)
 
-DOWNLOAD APK:
+Download:
 =============
-https://github.com/frankkienl/BronyMLPBlindBagGuide/blob/master/MLPBlindBagGuide/MLPBlindBagGuide.apk
+Google Play: https://play.google.com/store/apps/details?id=nl.frankkie.bronymlpblindbagguide
+
+APK: https://github.com/frankkienl/BronyMLPBlindBagGuide/blob/master/MLPBlindBagGuide/MLPBlindBagGuide.apk
 
 NOTE: If you see the "Error: blob is too big", please download the whole project as a zip.
 To download the zip, click the button that looks like this:
@@ -35,6 +37,8 @@ Links:
 ======
 
 http://equestriadaily.com/2013/08/android-brony-mlp-blind-bag-guide.html
+
+https://play.google.com/store/apps/details?id=nl.frankkie.bronymlpblindbagguide
 
 http://jerry411.deviantart.com/art/My-Little-Pony-G4-Blind-Bag-Guide-ver-1-2-394703136
 
