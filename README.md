@@ -8,7 +8,7 @@ DOWNLOAD APK: https://github.com/frankkienl/BronyMLPBlindBagGuide/blob/master/ML
 NOTE: If you see the "Error: blob is too big", please download the whole project as a zip.
 To download the zip, click the button that looks like this: (here below is not the real button)
 
-![Screenshot](https://raw.github.com/frankkienl/BronyMLPBlindBagGuide/master/screenshots/device-2013-08-30-115618.png "Screenshot")
+![Screenshot](https://raw.github.com/frankkienl/BronyMLPBlindBagGuide/master/screenshots/downloadzip.png "Screenshot")
 
 The APK is in the folder called 'MLPBronyBlindBag'.
 
