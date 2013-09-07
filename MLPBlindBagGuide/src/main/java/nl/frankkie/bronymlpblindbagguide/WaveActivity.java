@@ -1,15 +1,15 @@
 package nl.frankkie.bronymlpblindbagguide;
 
 import android.app.Activity;
+import android.content.SharedPreferences;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.TextView;
-import android.widget.Toast;
+import android.widget.*;
 
 import nl.fluffikens.pony.Pony;
 import nl.fluffikens.pony.waves.AbstractWave;
@@ -24,6 +24,8 @@ public class WaveActivity extends Activity {
     AbstractWave wave;
     int waveNr = -1;
 
+    SharedPreferences prefs;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -33,9 +35,10 @@ public class WaveActivity extends Activity {
             finish();
             return;
         }
+        prefs = PreferenceManager.getDefaultSharedPreferences(this);
         initWave();
         initUI();
-        Log.v("MLP","Wave init done");
+        Log.v("MLP", "Wave init done");
     }
 
     private void initWave() {
@@ -71,7 +74,8 @@ public class WaveActivity extends Activity {
             case 8: {
                 wave = new Wave8();
                 break;
-            } default: {
+            }
+            default: {
                 Toast.makeText(this, "Select a Wave", Toast.LENGTH_LONG).show();
                 finish();
                 return;
@@ -80,13 +84,15 @@ public class WaveActivity extends Activity {
     }
 
 
-
     private void initUI() {
         setContentView(R.layout.activity_wave);
         //
         LayoutInflater inflater = getLayoutInflater();
         ViewGroup container = (ViewGroup) findViewById(R.id.code_container);
-        for (final Pony pony : wave.getPonies()) {
+        Pony[] ponies = wave.getPonies();
+        for (int i = 0; i < ponies.length; i++) {
+            final Pony pony = ponies[i];
+            final int ponyNr = i;
             ViewGroup viewGroup = (ViewGroup) inflater.inflate(R.layout.layout_row_ponies, container, false);
             try {
                 Drawable d = Drawable.createFromStream(getAssets().open(pony.getImageName()), null);
@@ -104,6 +110,16 @@ public class WaveActivity extends Activity {
                 }
                 ((TextView) viewGroup.findViewById(R.id.row_secondLine)).setText(sb.toString());
             }
+            //
+            CheckBox cb = (CheckBox) viewGroup.findViewById(R.id.row_checkbox);
+            cb.setChecked(prefs.getBoolean("w" + wave.getWave() + "p" + ponyNr, false));
+            cb.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+                @Override
+                public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                    prefs.edit().putBoolean("w" + wave.getWave() + "p" + ponyNr, b).commit();
+                }
+            });
+            //
             viewGroup.setFocusable(true);
             //add to container
             container.addView(viewGroup);

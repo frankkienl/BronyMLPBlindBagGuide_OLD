@@ -2,13 +2,17 @@ package nl.frankkie.bronymlpblindbagguide;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.ProgressBar;
 import android.widget.TextView;
+import nl.fluffikens.pony.Pony;
 import nl.fluffikens.pony.waves.*;
 
 import java.util.ArrayList;
@@ -28,6 +32,7 @@ public class CodeActivity extends Activity {
     }
 
     public void initWaves() {
+        waves.clear();
         waves.add(new Wave1());
         waves.add(new Wave2());
         waves.add(new Wave3());
@@ -36,11 +41,19 @@ public class CodeActivity extends Activity {
         waves.add(new Wave6());
         waves.add(new Wave7());
         waves.add(new Wave8());
+    }
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        //re init, to show new progress !!
+        initWaves();
+        initUI();
     }
 
     public void initUI() {
         setContentView(R.layout.activity_code);
+        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
         LayoutInflater inflater = getLayoutInflater();
         ViewGroup container = (ViewGroup) findViewById(R.id.code_container);
         for (final AbstractWave w : waves) {
@@ -57,6 +70,17 @@ public class CodeActivity extends Activity {
             } else {
                 ((TextView) viewGroup.findViewById(R.id.row_secondLine)).setText(w.getDescription());
             }
+            //Competion
+            ProgressBar progressBar = (ProgressBar) viewGroup.findViewById(R.id.row_progress);
+            int nrHasPoniesFromWave = 0;
+            int nrOfPoniesInWave = w.getPonies().length;
+            for (int i=0; i<nrOfPoniesInWave; i++){
+                if (prefs.getBoolean("w" + w.getWave() + "p" + i, false)){
+                    nrHasPoniesFromWave++;
+                }
+            }
+            progressBar.setProgress(mapInt(nrHasPoniesFromWave,0,nrOfPoniesInWave,0,100));
+            //
             viewGroup.setFocusable(true);
             viewGroup.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -70,6 +94,16 @@ public class CodeActivity extends Activity {
             //add to container
             container.addView(viewGroup);
         }
+    }
+
+    long mapLong(long x, long in_min, long in_max, long out_min, long out_max)
+    {
+        return (x - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
+    }
+
+    int mapInt(int x, int in_min, int in_max, int out_min, int out_max)
+    {
+        return (x - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
     }
 
     public class WaveOLD {
