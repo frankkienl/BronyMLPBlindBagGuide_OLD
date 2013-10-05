@@ -28,6 +28,7 @@ public class Wave6 extends AbstractWave {
         };
 
         this.wave = 6;
+        this.waveName = "" + this.wave;
         this.ponies = new Pony[names.length];
 
         //@Todo check wether europe pattern differs

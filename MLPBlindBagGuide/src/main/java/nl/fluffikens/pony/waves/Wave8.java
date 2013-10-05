@@ -34,6 +34,7 @@ public class Wave8 extends AbstractWave {
         };
 
         this.wave = 8;
+        this.waveName = "" + this.wave;
         this.ponies = new Pony[names.length];
         
         this.patterns.add(new AZPattern());

@@ -34,6 +34,7 @@ public class Wave1 extends AbstractWave {
         };
 
         this.wave = 1;
+        this.waveName = "" + this.wave;
         this.ponies = new Pony[names.length];
 
         //@TODO remove hardcoded pattern codes

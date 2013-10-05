@@ -30,6 +30,7 @@ public class Wave2 extends AbstractWave {
 
         this.description = "Only released in Europe";
         this.wave = 2;
+        this.waveName = "" + this.wave;
         this.ponies = new Pony[names.length];
 
         this.init();

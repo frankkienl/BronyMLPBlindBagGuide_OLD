@@ -41,6 +41,7 @@ public class CodeActivity extends Activity {
         waves.add(new Wave6());
         waves.add(new Wave7());
         waves.add(new Wave8());
+        waves.add(new Wave8_1());
     }
 
     @Override
@@ -64,13 +65,13 @@ public class CodeActivity extends Activity {
             } catch (Exception e) {
                 //ignore
             }
-            ((TextView) viewGroup.findViewById(R.id.row_title)).setText("Wave" + w.getWave());
+            ((TextView) viewGroup.findViewById(R.id.row_title)).setText("Wave " + w.getWaveName());
             if (w.getDescription() == null || w.getDescription().equals("")) {
                 viewGroup.findViewById(R.id.row_secondLine).setVisibility(View.GONE);
             } else {
                 ((TextView) viewGroup.findViewById(R.id.row_secondLine)).setText(w.getDescription());
             }
-            //Competion
+            //Completion
             ProgressBar progressBar = (ProgressBar) viewGroup.findViewById(R.id.row_progress);
             int nrHasPoniesFromWave = 0;
             int nrOfPoniesInWave = w.getPonies().length;
@@ -80,6 +81,7 @@ public class CodeActivity extends Activity {
                 }
             }
             progressBar.setProgress(mapInt(nrHasPoniesFromWave,0,nrOfPoniesInWave,0,100));
+            ((TextView)viewGroup.findViewById(R.id.row_progress_text)).setText("" + nrHasPoniesFromWave + " / " + nrOfPoniesInWave);
             //
             viewGroup.setFocusable(true);
             viewGroup.setOnClickListener(new View.OnClickListener() {

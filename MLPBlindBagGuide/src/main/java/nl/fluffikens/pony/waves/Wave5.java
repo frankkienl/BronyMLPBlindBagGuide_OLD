@@ -31,6 +31,7 @@ public class Wave5 extends AbstractWave {
         };
 
         this.wave = 5;
+        this.waveName = "" + this.wave;
         this.ponies = new Pony[names.length];
         
         this.patterns.add(new NumberPattern("70202"));

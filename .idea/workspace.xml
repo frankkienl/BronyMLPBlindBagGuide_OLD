@@ -14,11 +14,42 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="546cb936-cd07-4602-8395-6da0e303e375" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/device-2013-09-15-133331.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/device-2013-09-15-133352.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/device-2013-09-15-133518.png" />
+    <list default="true" id="546cb936-cd07-4602-8395-6da0e303e375" name="Default" comment="Fixed screenshot in README.md">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/01_Applejack.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/02_BigMacIntosh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/03_RoyalRiff.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/04_Skywishes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/05_GardeniaGlow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/06_LemonHearts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/07_FlowerWishes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/08_GrannySmith.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/09_FlimSkim.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/10_Fluttershy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/11_RainbowDash.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/12_CometTail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wat 1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wat 1_stretched.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wat 2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 81/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/device-2013-10-05-151213.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/feature-request.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave8_1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/AbstractWave.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/AbstractWave.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/CodeActivity.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/CodeActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/MLPBlindBagGuide.iml" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/MLPBlindBagGuide.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave1.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave2.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave3.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave4.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave5.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave6.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave6.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave7.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave7.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave8.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave8.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/WaveActivity.java" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/WaveActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/activity_credits.xml" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/activity_credits.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/layout_row.xml" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/layout_row.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MLPBlindBagGuide.iws" />
@@ -37,7 +68,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -91,6 +121,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -100,109 +131,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="layout_row.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/layout_row.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="Wave8_1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave8_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="41" selection-start="1578" selection-end="1578" vertical-scroll-proportion="0.0" vertical-offset="411" max-vertical-offset="1003">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CodeActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/CodeActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="22" selection-start="922" selection-end="922" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="2397">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractWave.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/AbstractWave.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="25" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1802">
+            <state line="24" column="30" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="884">
               <folding>
-                <marker date="1377857779524" expanded="true" signature="740:989" placeholder="{...}" />
-                <marker date="1377857779524" expanded="true" signature="1340:1393" placeholder="{...}" />
-                <marker date="1377857779524" expanded="true" signature="1430:1465" placeholder="{...}" />
-                <marker date="1377857779524" expanded="true" signature="1492:1520" placeholder="{...}" />
-                <marker date="1377857779524" expanded="true" signature="1552:1582" placeholder="{...}" />
-                <marker date="1377857779524" expanded="true" signature="1622:1662" placeholder="{...}" />
-                <marker date="1377857779524" expanded="true" signature="1707:2705" placeholder="{...}" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pony.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/Pony.java">
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1326">
+            <state line="41" column="73" selection-start="2460" selection-end="2460" vertical-scroll-proportion="0.0" vertical-offset="347" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Wave1.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="17" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1224">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout_row_ponies.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/layout_row_ponies.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="23" selection-start="1732" selection-end="1732" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1003">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WaveActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/WaveActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="126" column="5" selection-start="4149" selection-end="4149" vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="3587">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_code.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/activity_code.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="17" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="425">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="1058" selection-end="1058" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="963" selection-end="963" vertical-scroll-proportion="0.84375" vertical-offset="0" max-vertical-offset="1241">
-              <folding />
+            <state line="3" column="24" selection-start="64" selection-end="64" vertical-scroll-proportion="0.08994709" vertical-offset="0" max-vertical-offset="731">
+              <folding>
+                <element signature="e#515#533#0" expanded="true" />
+                <element signature="e#661#679#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -574,30 +530,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/WaveActivity.java" />
+        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave1.java" />
+        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave2.java" />
+        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave3.java" />
+        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave4.java" />
+        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave5.java" />
         <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave6.java" />
         <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave7.java" />
         <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave8.java" />
-        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/Test.java" />
-        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/MainActivity.java" />
         <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/AbstractWave.java" />
-        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/Pony.java" />
-        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave1.java" />
-        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pattern/NumberPattern.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/layout_row.xml" />
-        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/layout_row_ponies.xml" />
         <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/CodeActivity.java" />
-        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/WaveActivity.java" />
+        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/activity_credits.xml" />
+        <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave8_1.java" />
         <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/MLPBlindBagGuide/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
-    <option name="y" value="9" />
-    <option name="width" value="1255" />
-    <option name="height" value="1024" />
+    <option name="width" value="1092" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -643,38 +597,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLPBlindBagGuide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLPBlindBagGuideProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="screenshots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLPBlindBagGuide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLPBlindBagGuideProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLPBlindBagGuide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -686,23 +612,24 @@
     <property name="recentsLimit" value="5" />
     <property name="ExportedModule" value="MLPBlindBagGuide" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="4df11d941b664ffd" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="AndroidRunProguardForReleaseBuild" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="a1" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\MLPBlindBagGuide\src\main\assets\Wave 8_1" />
+      <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\MLPBlindBagGuide\src\main\assets\Wave 8.1" />
       <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\MLPBlindBagGuide\src\main\java\nl\curiosity" />
       <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\MLPBlindBagGuide\src\main\assets" />
       <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\MLPBlindBagGuide\src\main\res\layout" />
-      <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\MLPBlindBagGuide\src\main\res\drawable" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\MLPBlindBagGuide\src\main\assets" />
@@ -733,6 +660,33 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -819,12 +773,6 @@
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Android Application.MLPBlindBagGuide" />
     </list>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -890,37 +838,49 @@
       <created>1378584944780</created>
       <updated>1378584944780</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added new Screenshots.">
+      <created>1379245394460</created>
+      <updated>1379245394460</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added new Screenshots.">
+      <created>1379245512524</created>
+      <updated>1379245512524</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed screenshot in README.md">
+      <created>1379245551449</created>
+      <updated>1379245551449</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="9" width="1255" height="1024" extended-state="0" />
+    <frame x="0" y="0" width="1092" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.4995809" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.4995809" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26213592" sideWeight="0.6700565" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2044199" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.50041914" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299435" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847533" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272101" sideWeight="0.4995809" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276644" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32655367" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299435" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31601006" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3429229" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3067961" sideWeight="0.6700565" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3423729" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2623638" sideWeight="0.6570771" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -936,135 +896,138 @@
     <MESSAGE value="Added APK link" />
     <MESSAGE value="Reduced APK size by resizing images." />
     <MESSAGE value="Added Progress feature." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Progress feature." />
+    <MESSAGE value="Added new Screenshots." />
+    <MESSAGE value="Fixed screenshot in README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed screenshot in README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 7/03_TwilightSparkle.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 7/04_RainbowDash.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/assets/Wave 7/06_Applejack.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/activity_wave.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="56" selection-start="89" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="17" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="1207">
+        <state line="36" column="8" selection-start="1338" selection-end="1369" vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="1224">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/activity_code.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="17" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="425">
+        <state line="32" column="39" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/layout_row.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="41" selection-start="1578" selection-end="1578" vertical-scroll-proportion="0.0" vertical-offset="411" max-vertical-offset="1003">
+        <state line="32" column="39" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="39" selection-start="1348" selection-end="1348" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="39" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="39" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.3982456" vertical-offset="266" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="39" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.57719296" vertical-offset="232" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="38" selection-start="1182" selection-end="1182" vertical-scroll-proportion="0.57719296" vertical-offset="215" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/AbstractWave.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="25" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1734">
-          <folding>
-            <marker date="1377857779524" expanded="true" signature="740:989" placeholder="{...}" />
-            <marker date="1377857779524" expanded="true" signature="1340:1393" placeholder="{...}" />
-            <marker date="1377857779524" expanded="true" signature="1430:1465" placeholder="{...}" />
-            <marker date="1377857779524" expanded="true" signature="1492:1520" placeholder="{...}" />
-            <marker date="1377857779524" expanded="true" signature="1552:1582" placeholder="{...}" />
-            <marker date="1377857779524" expanded="true" signature="1622:1662" placeholder="{...}" />
-            <marker date="1377857779524" expanded="true" signature="1707:2705" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/Pony.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1326">
+        <state line="61" column="24" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.5105263" vertical-offset="678" max-vertical-offset="1819">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/layout_row_ponies.xml">
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/layout_row.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="38" selection-start="2041" selection-end="2041" vertical-scroll-proportion="-17.76" vertical-offset="525" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="23" selection-start="1732" selection-end="1732" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1003">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/CodeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="22" selection-start="922" selection-end="922" vertical-scroll-proportion="0.0" vertical-offset="1546" max-vertical-offset="2091">
+        <state line="83" column="12" selection-start="3028" selection-end="3028" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2125">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="554">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/layout/activity_credits.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="43" selection-start="1315" selection-end="1315" vertical-scroll-proportion="0.73913044" vertical-offset="102" max-vertical-offset="714">
+          <folding>
+            <element signature="e#605#622#0" expanded="true" />
+            <element signature="e#850#856#0" expanded="true" />
+            <element signature="e#1153#1159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/fluffikens/pony/waves/Wave8_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="30" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="884">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="87" selection-start="1675" selection-end="1675" vertical-scroll-proportion="0.4567669" vertical-offset="216" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/java/nl/frankkie/bronymlpblindbagguide/WaveActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="5" selection-start="4149" selection-end="4149" vertical-scroll-proportion="0.0" vertical-offset="1428" max-vertical-offset="3366">
+        <state line="41" column="73" selection-start="2460" selection-end="2460" vertical-scroll-proportion="0.0" vertical-offset="347" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPBlindBagGuide/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1058" selection-end="1058" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="963" selection-end="963" vertical-scroll-proportion="0.84375" vertical-offset="0" max-vertical-offset="1241">
-          <folding />
+        <state line="3" column="24" selection-start="64" selection-end="64" vertical-scroll-proportion="0.08994709" vertical-offset="0" max-vertical-offset="731">
+          <folding>
+            <element signature="e#515#533#0" expanded="true" />
+            <element signature="e#661#679#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -12,6 +12,7 @@ import nl.fluffikens.pony.Pony;
 public abstract class AbstractWave {
 
     protected int wave;
+    protected String waveName;
     protected String description;
     protected List<Pattern> patterns = new ArrayList<Pattern>();
     protected Pony[] ponies;
@@ -55,6 +56,10 @@ public abstract class AbstractWave {
 
     public int getWave() {
         return wave;
+    }
+
+    public String getWaveName(){
+        return waveName;
     }
 
     public Pony[] getPonies() {

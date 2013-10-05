@@ -49,6 +49,13 @@
             style="@android:style/Widget.ProgressBar.Horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
+
+        <TextView
+                android:id="@+id/row_progress_text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="progress"/>
     </LinearLayout>
 
 </LinearLayout>

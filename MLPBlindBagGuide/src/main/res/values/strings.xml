@@ -27,7 +27,7 @@
         http://www.strawberryreef.com/Index/G4/IndexBB.html\n
         http://www.equestriadaily.com/2013/08/blind-bag-identification-application.html
     </string>
-    <string name="credtis2">
+    <string name="credits2">
         This software is for informational purposes only.\n
         and is intended to assist the pony collecting community.\n
         Some images in this software are property of Hasbro and have been borrowed for non-profit use.\n
@@ -35,5 +35,14 @@
         and their distinctive likenesses are trademarks of Hasbro, Inc. All rights reserved worldwide.\n
         \n
         My Little Pony: Friendship is Magic is copyrighted by Hasbro.
+    </string>
+    <string name="credits3">
+        Disclamer: We are not responsible for incorrect information.\n
+        We try to check all the information and make sure everything is correct.
+        But typo\'s can occur. And please keep in mind that not all waves are worldwide available.\n
+        \n
+        Thanks for using our application!\n
+        If you see mistakes or have feature-requests, please mail to:\n
+        frankkie.12345@gmail.com
     </string>
 </resources>

@@ -20,12 +20,17 @@
                     />
             <LinearLayout android:layout_height="25dp" android:layout_width="match_parent"/>
             <TextView
-                    android:text="@string/credtis2"
+                    android:text="@string/credits2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     />
             <LinearLayout android:layout_height="25dp" android:layout_width="match_parent"/>
-
+            <TextView
+                    android:text="@string/credits3"
+                    android:autoLink="email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
         </LinearLayout>
     </ScrollView>
 
