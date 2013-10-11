@@ -15,7 +15,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="546cb936-cd07-4602-8395-6da0e303e375" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPBlindBagGuide/MLPBlindBagGuide.apk" afterPath="$PROJECT_DIR$/MLPBlindBagGuide/MLPBlindBagGuide.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshots/Wat 2_stretched.jpg" />
+      <change type="MOVED" beforePath="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\Wat 1.jpg" afterPath="$PROJECT_DIR$/screenshots/Wat 1.jpg" />
+      <change type="MOVED" beforePath="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\Wat 1_stretched.jpg" afterPath="$PROJECT_DIR$/screenshots/Wat 1_stretched.jpg" />
+      <change type="MOVED" beforePath="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\Wat 2.jpg" afterPath="$PROJECT_DIR$/screenshots/Wat 2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MLPBlindBagGuide.iws" />
@@ -602,20 +605,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLPBlindBagGuide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLPBlindBagGuideProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MLPBlindBagGuide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -654,6 +643,7 @@
       <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\MLPBlindBagGuide\src\main\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\screenshots" />
       <recent name="C:\Dropbox\AndroidStudio_apps2\MLPBlindBagGuideProject\MLPBlindBagGuide\src\main\assets" />
     </key>
   </component>
@@ -884,7 +874,11 @@
       <created>1381507683409</created>
       <updated>1381507683409</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Build APK 6,1.1.2&#10;With Wave 8 UK alt 1 and 2">
+      <created>1381507795377</created>
+      <updated>1381507795377</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -935,7 +929,8 @@
     <MESSAGE value="Added Wave8_UK&#10;Added progress-numbers&#10;Added disclamer" />
     <MESSAGE value="Build APK for 1.1 (Wave8_UK)" />
     <MESSAGE value="Added UK alternative 2&#10;Corrected UK alternative 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added UK alternative 2&#10;Corrected UK alternative 1" />
+    <MESSAGE value="Build APK 6,1.1.2&#10;With Wave 8 UK alt 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build APK 6,1.1.2&#10;With Wave 8 UK alt 1 and 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
