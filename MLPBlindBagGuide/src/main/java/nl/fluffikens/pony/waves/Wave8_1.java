@@ -11,18 +11,18 @@ public class Wave8_1 extends AbstractWave {
     public Wave8_1() {
         this.names = new String[]
                 {
+                        "Rainbow Dash",
                         "Applejack",
-                        "Big MacIntosh",
-                        "Royal Riff",
+                        "Fluttershy",
+                        "Flower Wishes",
                         "Skywishes",
                         "Gardenia Glow",
                         "Lemon Hearts",
-                        "Flower Wishes",
+                        "Big MacIntosh",
                         "Granny Smith",
-                        "Flim Skim",
-                        "Fluttershy",
-                        "Rainbow Dash",
                         "Comet Tail",
+                        "Royal Riff",
+                        "Flim Skim",
                 };
 
         this.descriptions = new String[][]
@@ -33,14 +33,30 @@ public class Wave8_1 extends AbstractWave {
                 };
 
         this.wave = 81;
-        this.waveName = "8 UK alternative";
+        this.waveName = "8 UK alternative 1";
         this.ponies = new Pony[names.length];
 
         this.patterns.add(new AZPattern());
 
-        this.description = "UK Only? Warning: Information could be incorrect!";
+        this.description = "UK Only?";
 
         this.init();
 
     }
+
+    /*
+    Thanks to Rory for reporting!
+    Rainbow Dash - AA - 01
+    Applejack - AB - 02
+    Fluttershy - AC - 03
+    Flower Wishes - AD - 04
+    Skywishes - AE - 05
+    Gardenia Glow - AF - 06
+    Lemon Hears - AG - 07
+    Big MacIntosh - AH - 08
+    Granny Smith - AI - 09
+    Comet Tail - AK - 10
+    Royal Riff - AL - 11
+    Flim Skim - AM - 12
+    */
 }

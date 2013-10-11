@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
+1.1.2:
+- Corrected Wave 8 UK alternative 1 (Thanks Rory)
+
+1.1.1:
+- Added Wave 8 UK alternative 2
+
 1.1:
-- added Wave 8 UK alternative
+- added Wave 8 UK alternative 1
 - added progress-numbers
 - added disclamer
 //-->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="nl.frankkie.bronymlpblindbagguide"
-    android:versionCode="4"
-    android:versionName="1.1" >
+    android:versionCode="6"
+    android:versionName="1.1.2" >
 
     <uses-sdk
         android:minSdkVersion="7"

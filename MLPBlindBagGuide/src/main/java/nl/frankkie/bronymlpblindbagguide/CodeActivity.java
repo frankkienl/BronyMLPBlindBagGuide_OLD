@@ -42,6 +42,7 @@ public class CodeActivity extends Activity {
         waves.add(new Wave7());
         waves.add(new Wave8());
         waves.add(new Wave8_1());
+        waves.add(new Wave8_2());
     }
 
     @Override
