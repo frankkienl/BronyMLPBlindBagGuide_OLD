@@ -83,6 +83,10 @@ public class WaveActivity extends Activity {
                 wave = new Wave8_2();
                 break;
             }
+            case 9: {
+                wave = new Wave9();
+                break;
+            }
             default: {
                 Toast.makeText(this, "Select a Wave", Toast.LENGTH_LONG).show();
                 finish();
